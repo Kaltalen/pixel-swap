@@ -1,2 +1,2 @@
 # pixel-swap
-Simple GUI interface for palette swapping sprites
+Simple GUI for palette swapping sprites
