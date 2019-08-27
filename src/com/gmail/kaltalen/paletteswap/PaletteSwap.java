@@ -10,6 +10,7 @@ import java.util.HashSet;
 
 public class PaletteSwap extends JFrame implements ActionListener
 {
+    //Set up Menu Items
     private JMenuBar mb;
     private JMenu file;
     private JMenuItem open;
